@@ -1,5 +1,4 @@
-# cts-time-dynsys
-Continuous time 3-dim. dynamical systems.
+# Continuous Time Dynamical Systems
 
 Lorenz system:
 
