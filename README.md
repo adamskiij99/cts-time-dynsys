@@ -15,4 +15,4 @@ Modified Chua system, another type of multiscroll system:
 
 Rössler system:
 
-![rossler](https://user-images.githubusercontent.com/62266775/181619396-bad20189-e6cd-4bdb-82cc-a627b5bef126.png)
+![rossler](https://user-images.githubusercontent.com/62266775/181620693-dc986e35-9b1f-44f4-99f4-b87e846b8a9a.png)
