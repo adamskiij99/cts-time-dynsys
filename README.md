@@ -1,5 +1,7 @@
 # Continuous Time Dynamical Systems
 
+Peasy is required for running these, which is not supported by OpenProcessing at the time of writing.
+
 Lorenz system:
 
 ![lorenz](https://user-images.githubusercontent.com/62266775/181617667-2fd5e491-39d5-42d4-a9a8-e7bd76368969.png)
